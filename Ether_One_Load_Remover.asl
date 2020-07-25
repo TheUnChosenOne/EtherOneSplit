@@ -45,7 +45,3 @@ isLoading
      }
     
 }
-update
-{
-   print("current level is " + current.ToString());
-}
